@@ -1,0 +1,13 @@
+{
+  "name": "Test1",
+  "version": "0.0.0",
+  "description": "Project for Test",
+  "main": "index.js",
+  "repository": "https://github.com/Jamiswinner/Practica_Front_1.git",
+  "author": "Jam",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
